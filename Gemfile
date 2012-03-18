@@ -37,4 +37,5 @@ group :test do
   gem 'webrat'
   gem 'cucumber'
   gem 'factory_girl_rails'
+  gem 'database_cleaner'
 end

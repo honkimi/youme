@@ -3,6 +3,7 @@ require 'spork'
 #require 'remarkable/mongoid'
 #uncomment the following line to use spork with the debugger
 require 'spork/ext/ruby-debug'
+require 'database_cleaner'
 
 
 Spork.prefork do
